@@ -1,4 +1,4 @@
-# Awesome Frontend Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Frontend Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <a name="awesome-frontend-resources"></a>
 
 A list of awesome Frontend resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
@@ -6,24 +6,17 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
 
 - [Awesome Frontend Resources](#awesome-frontend-resources)
   - [General](#general)
-    - [Tutorials](#general-tutorials)
-    - [Blogs](#general-blogs)
-    - [Books](#general-books)
-    - [Podcasts](#general-podcasts)
+    - [Roadmaps](#general-roadmaps)
 - [Contributing](#contributing)
-
----
 
 ## General <a name="general"></a>
 
-*Resources for general topics.*
+*Resources for general topics (roadmaps, frontend blogs, tutorials covering many frontend technologies, etc).*
 
-- Tutorials <a name="general-tutorials"></a>
-  - [Tutorial1]() - Test text.
-- Blogs <a name="general-blogs"></a>
-  - [Blog1]() - Test text.
-
----
+- Roadmaps <a name="general-roadmaps"></a> (*Step-by-step learning guides*)
+  - [Roadmap.sh: Frontend Developer Roadmap](https://roadmap.sh/frontend) - Provides learning resources on some topic.
+  - [FrontendMasters: Frontend Developer Roadmap](https://frontendmasters.com/guides/learning-roadmap/) - Much more detailed than Roadmap.sh as topics and resources.
+  - [Web Skills](https://andreasbm.github.io/web-skills/?compact) - A sorted chronologically visual overview of useful skills to learn as a web developer.
 
 # Contributing
 
