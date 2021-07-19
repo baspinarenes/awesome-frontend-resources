@@ -29,4 +29,4 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
 
 I'm listing good sources I've come across. But there may be unknown treasures. Please feel free to forward it to me. Please take a look at the [contribution guidelines](/CONTRIBUTING.md) first.
 
-I'll put it up to vote to decide if some resources are worth adding, you could [vote for them](/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **10**.
+I'll put it up to vote to decide if some resources are worth adding, you could [vote for them](https://github.com/baspinarenes/awesome-frontend-resources//pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **10**.
