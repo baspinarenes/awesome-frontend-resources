@@ -18,12 +18,12 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
 
 * Roadmaps <a name="general-roadmaps"></a>
   * [Frontend Developer Roadmap @Roadmap.sh](https://roadmap.sh/frontend) - Step-by-step learning guide. Provides learning resources on some topic.
-  * [Frontend Developer Roadmap @FrontendMasters](https://frontendmasters.com/guides/learning-roadmap/) - Step-by-step learning guide. Much more detailed than Roadmap.sh as topics and resources.
+  * [Frontend Developer Roadmap @FrontendMasters](https://frontendmasters.com/guides/learning-roadmap/) - Step-by-step learning guide. Much more detailed than Roadmap.sh as topics and recommended resources.
   * [Web Skills](https://andreasbm.github.io/web-skills/?compact) - A sorted chronologically visual overview of useful skills to learn as a web developer.
 * Books <a name="general-books"></a>
-  * [Frontend Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/) - Covers the state of the frontend ecosystem in 2019 (learning path, tools, trends, salaries, community resources, etc). There are no 2020 and 2021 editions.
+  * [Frontend Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/) - State of the frontend ecosystem in 2019 (learning path, tools, trends, salaries, community resources, etc). There are no 2020 and 2021 editions.
 * Projects <a name="general-projects"></a>
-  * [FrontenDaily](https://frontendaily.com/) - Project examples that you can code with HTML, CSS and JS for 27 days. Also, each project has a Sketch file.
+  * [frontendaily](https://frontendaily.com/) - Project examples that you can code with HTML, CSS and JS for 27 days. Also, each project has a Sketch file.
 * Reference Guide <a name="general-reference-guide"></a>
   * [30 seconds of code](https://www.30secondsofcode.org/) - Short code snippets for frontend technologies.
 
