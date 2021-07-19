@@ -7,16 +7,19 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
 - [Awesome Frontend Resources](#awesome-frontend-resources)
   - [General](#general)
     - [Roadmaps](#general-roadmaps)
+    - [Books](#general-books)
 - [Contributing](#contributing)
 
 ## General <a name="general"></a>
 
 *Resources for general topics (roadmaps, frontend blogs, tutorials covering many frontend technologies, etc).*
 
-- Roadmaps <a name="general-roadmaps"></a> (*Step-by-step learning guides*)
-  - [Roadmap.sh: Frontend Developer Roadmap](https://roadmap.sh/frontend) - Provides learning resources on some topic.
-  - [FrontendMasters: Frontend Developer Roadmap](https://frontendmasters.com/guides/learning-roadmap/) - Much more detailed than Roadmap.sh as topics and resources.
+- Roadmaps <a name="general-roadmaps"></a>
+  - [Roadmap.sh: Frontend Developer Roadmap](https://roadmap.sh/frontend) - Step-by-step learning guide. Provides learning resources on some topic.
+  - [FrontendMasters: Frontend Developer Roadmap](https://frontendmasters.com/guides/learning-roadmap/) - Step-by-step learning guide. Much more detailed than Roadmap.sh as topics and resources.
   - [Web Skills](https://andreasbm.github.io/web-skills/?compact) - A sorted chronologically visual overview of useful skills to learn as a web developer.
+- Books <a name="general-books"></a>
+  - [Frontend Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/) - Covers the state of the frontend ecosystem in 2019 (learning path, tools, trends, salaries, community resources, etc). There are no 2020 and 2021 editions.
 
 # Contributing
 
