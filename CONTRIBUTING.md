@@ -7,7 +7,7 @@ I'm listing good sources I've come across. But there may be unknown treasures. P
 * Create a PR for a link in the format of `Add project-name`. Explain why this resource is awesome.
 * Add the link in the format of `* [project-name](http://example.com/) - A short description ends with a period.`
     * Keep descriptions concise and **short**.
-    * If the source name and the website name are not same, add name. Otherwise, skip it. Examples:
+    * If there is not only one source with this name, add owner to resource name. Otherwise, skip it. Examples:
       * `[Frontend Masters: Frontend Developer Roadmap](https://frontendmasters.com/guides/learning-roadmap/)`
       * `[Web Skills](https://andreasbm.github.io/web-skills/?compact)`
 
