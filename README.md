@@ -9,6 +9,7 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
     * [Roadmaps](#general-roadmaps)
     * [Books](#general-books)
     * [Projects](#general-projects)
+    * [Reference Guide](#general-reference-guide)
 * [Contributing](#contributing)
 
 ## General <a name="general"></a>
@@ -23,6 +24,8 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
   * [Frontend Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/) - Covers the state of the frontend ecosystem in 2019 (learning path, tools, trends, salaries, community resources, etc). There are no 2020 and 2021 editions.
 * Projects <a name="general-projects"></a>
   * [FrontenDaily](https://frontendaily.com/) - Project examples that you can code with HTML, CSS and JS for 27 days. Also, each project has a Sketch file.
+* Reference Guide <a name="general-reference-guide"></a>
+  * [30 seconds of code](https://www.30secondsofcode.org/) - Short code snippets for frontend technologies.
 
 # Contributing
 
