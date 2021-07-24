@@ -30,7 +30,7 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
 * Books <a name="general-books"></a>
   * [Frontend Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/) - A summary of the state of the Frontend ecosystem in 2019 (learning path, tools, trends, salaries, community resources, etc). There are no 2020 and 2021 editions.
 * Tutorials <a name="general-tutorials"></a>
-  * [Frontend Development Libraries @freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/) - A course on some libraries used in Frontend. Content: Bootstrap, jQuery, SASS, React, Redux and 5 projects.
+  * [Frontend Development Libraries @FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/) - A course on some libraries used in Frontend. Content: Bootstrap, jQuery, SASS, React, Redux and 5 projects.
 * Code Examples <a name="general-examples"></a>
   * [Frontend Daily](https://frontendaily.com/) - A list of challenges that you can code with HTML, CSS and JS for 27 days. Also, each project has a Sketch file.
   * [30 Seconds of Code](https://www.30secondsofcode.org/) - A list of snippet for Frontend technologies.
@@ -79,22 +79,52 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
 * Tutorials <a name="js-tutorials"></a>
   * [Eloquent Javascript](https://eloquentjavascript.net/) -  A modern introduction to programming with JavaScript.
   * [The Modern JavaScript Tutorial](https://javascript.info/) - A guide from basics to advanced topics with simple but detailed explanations. Contains 2 parts which cover JavaScript as a programming language and working with a browser.
-  * [Full Stack Javascript Path @theodinproject](https://www.theodinproject.com/paths/full-stack-javascript) - A guide for teaching Javascript with as much HTML, CSS and NodeJS as we need. There are many examples of projects in it.
+  * [Full Stack Javascript Path @TheOdinProject](https://www.theodinproject.com/paths/full-stack-javascript) - A guide for teaching Javascript with as much HTML, CSS and NodeJS as we need. There are many examples of projects in it.
   * [Javascript Tutorial](https://www.javascripttutorial.net/) - A series of guide to help you learn the JavaScript programming language from scratch quickly and effectively.
   * [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript#readme) - A step-by-step guide to learn JavaScript programming language in 30 days.
   * [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - A guide for teaching topics such as Basics, ES6, Regex, Debugging, Object Oriented Programming and Functional Programming by coding.
-  * [How To Code in JavaScript](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript) - A JavaScript guide covering the basics.
+  * [How To Code in JavaScript @DigitalOcean](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript) - A JavaScript guide covering the basics.
 * Code Examples <a name="js-examples"></a>
-  * [Javacript Projects](https://www.vanillajavascriptprojects.com/) - Projects made with vanilla JavaScript.
+  * [Javacript Projects](https://www.vanillajavascriptprojects.com/) - Simple projects made with vanilla JavaScript.
   * [JavaScript Project Ideas @Codementor](https://www.codementor.io/projects/javascript) - Projects for reinforcing theoretical knowledge with real-world projects.
   * [30 Day Vanilla JS Coding Challenge](https://javascript30.com/) - Build 30 things in 30 days with 30 tutorials.
   * [JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme) - A long list of advanced JavaScript questions and explanations
 * Cheatsheets <a name="js-cheatsheets"></a>
-  * [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts) -  33 JavaScript concepts every developer should know.
+  * [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts) - 33 JavaScript concepts every developer should know.
   * [Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
   * [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions#readme) - List of JavaScript interview questions.
 * Tools <a name="js-tools"></a>
   * [JavaScript Visualizer 9000](https://www.jsv9000.app/) - A tool for interactively visualizing JavaScript's event loop.
+
+## React <a name="react"></a>
+
+*Resources for React.*
+
+* Books <a name="react-books"></a>
+  * [DOM Enlightenment](http://domenlightenment.com/) - Exploring the relationship between JavaScript and the modern HTML DOM.
+  * [React Enlightenment](https://www.reactenlightenment.com/) - Learn React in the terse cookbook style found with previous Enlightenment titles (i.e., jQuery Enlightenment, JavaScript Enlightenment, DOM Enlightenment).
+* Tutorials <a name="react-tutorials"></a>
+  * [React Official Docs](https://tr.reactjs.org/) - An overview of the React user guide and related resources.
+  * [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React#readme) - A step-by-step guide to learn React in 30 days.
+  * [Learn React @Scrimba](https://scrimba.com/learn/learnreact) - A course for React 101. You'll learn key React features while building two apps and practice what you learn through interactive coding challenges and exercises along the way.
+  * [React Fundamentals @Frontarm](https://frontarm.com/courses/react-fundamentals/) - A course for teaching the basics of React with live exercises. Get practice building a real-world app with form validation, asynchronous storage, and proper structure.
+  * [React Courses @FrontendMasters](https://frontendmasters.com/learn/react/) - The best courses on React.
+  * [How To Code in React.js @DigitalOcean](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-react-js) - A React guide covering the basics.
+  * [React Tutorial](https://react-tutorial.app/) - Learn in an interactive environment. Understand how React works not just how to build with React.
+* Topic Tutorials
+  * [useHooks(🐠)](https://usehooks.com/) - Easy to understand React Hook recipes.
+  * [useEffect Course](https://maxrozen.com/courses) - Learn the basics of useEffect in 3 days.
+  * [React Hooks](https://reactjs.org/docs/hooks-intro.html) - Official tutorial for React hooks.
+* Code Examples <a name="react-examples"></a>
+  * [React Projects](https://react-projects.netlify.app/) - Simple projects made with React.
+  * [React Project Ideas @Codementor](https://www.codementor.io/projects/reactjs) - Projects for reinforcing theoretical knowledge with real-world projects.
+  * [React by Example](https://reactbyexample.github.io/) - Code-oriented React tutorial for programmers.
+* Cheatsheets & Awesomes <a name="react-cheatsheets-awesomes"></a>
+  * [React Patterns](https://reactpatterns.com/) - Some React patterns, tips and tricks.
+  * [React.js cheatsheet](https://devhints.io/react) - A wonderful cheatsheet for the React.
+  * [Awesome React Design Systems](https://github.com/jbranchaud/awesome-react-design-systems#readme) - A collection of awesome React-based design systems.
+  * [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions#readme) - List of React interview questions.
+* Tools <a name="react-tools"></a>
 
 # Contributing
 
