@@ -76,6 +76,7 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
   * [CSS Layout](https://csslayout.io/) - Popular layouts and patterns made with CSS.
   * [HTML/CSS Project Ideas @Codementor](https://www.codementor.io/projects/html_css) - Projects for reinforcing theoretical knowledge with real-world projects.
 * Cheatsheets & Awesomes & References <a name="html-css-cheatsheets-awesomes-ref"></a>
+  * [Grid by Example](https://gridbyexample.com/) - Everything you need to learn CSS Grid Layout.
   * [HTML Cheatsheet @Digital](https://digital.com/tools/html-cheatsheet/) - A full list of all HTML elements, including descriptions, code examples and live previews.
   * [htmlreference.io](https://htmlreference.io/) - A full list of elements, attributes and all information about them.
 * Tools <a name="html-css-tools"></a>
