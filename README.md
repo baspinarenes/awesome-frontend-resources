@@ -46,7 +46,7 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
 * Books <a name="general-books"></a>
   * [Frontend Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/) - A summary of the state of the Frontend ecosystem in 2019 (learning path, tools, trends, salaries, community resources, etc). There are no 2020 and 2021 editions.
 * Blogs <a name="general-blogs"></a>
-  * [Dmitri Pavlutin](https://dmitripavlutin.com/) - A blog with articles about JavaScript and React.
+  * [Dmitri Pavlutin](https://dmitripavlutin.com/) - A blog on JavaScript and React.
 * Tutorials <a name="general-tutorials"></a>
   * [Frontend Development Libraries @FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/) - A course on some libraries used in Frontend. Content: Bootstrap, jQuery, SASS, React, Redux and 5 projects.
 * Code Examples <a name="general-examples"></a>
