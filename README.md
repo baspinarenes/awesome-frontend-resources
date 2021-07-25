@@ -8,12 +8,14 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
   * [General](#general)
     * [Roadmaps](#general-roadmaps)
     * [Books](#general-books)
+    * [Blogs](#general-blogs)
     * [Tutorials](#general-tutorials)
     * [Code Examples](#general-examples)
     * [Cheatsheets & Awesomes & References](#general-cheatsheets-awesomes-refs)
   * [HTML & CSS](#html-css)
     * Books
     * [Tutorials](#html-css-tutorials)
+    * [Topic Tutorials](#html-css-topic-tutorials)
     * [Code Examples](#html-css-examples)
     * [Cheatsheets & Awesomes & References](#html-css-cheatsheets-awesomes-refs)
     * [Tools](#html-css-tools)
@@ -30,7 +32,7 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
     * [Topic Tutorials](#react-topic-tutorials)
     * [Code Examples](#react-examples)
     * [Cheatsheets & Awesomes & References](#react-cheatsheets-awesomes-refs)
-    * [Tools](#react-tools)
+    * Tools
 * [Contributing](#contributing)
 
 ## General <a name="general"></a>
@@ -43,6 +45,8 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
   * [Web Skills](https://andreasbm.github.io/web-skills/?compact) - Visual overview of useful skills to learn as a web developer.
 * Books <a name="general-books"></a>
   * [Frontend Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/) - A summary of the state of the Frontend ecosystem in 2019 (learning path, tools, trends, salaries, community resources, etc). There are no 2020 and 2021 editions.
+* Blogs <a name="general-blogs"></a>
+  * [Dmitri Pavlutin](https://dmitripavlutin.com/) - A blog with articles about JavaScript and React.
 * Tutorials <a name="general-tutorials"></a>
   * [Frontend Development Libraries @FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/) - A course on some libraries used in Frontend. Content: Bootstrap, jQuery, SASS, React, Redux and 5 projects.
 * Code Examples <a name="general-examples"></a>
@@ -58,24 +62,25 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
 
 *Resources for HTML and CSS.*
 
-* Tutorials <a name="html-css-tutorials"></a>
+* Topic Tutorials
   * [CSS Grid](https://cssgrid.io/) - A video series consisting of 25 videos explaining CSS Grid.
   * [CSS Diner](https://flukeout.github.io/) - Learn how to use CSS selectors and practice with this game.
-  * [Dash Learn to Code](https://dash.generalassemb.ly/projects) -  A guide that teaches the concepts over 5 mini projects.
   * [Flexbox Defense](http://www.flexboxdefense.com/) - Learn how to use CSS Flexbox and practice with this game.
   * [Flexbox Froggy](https://flexboxfroggy.com/#en) - Learn how to use CSS Flexbox and practice with this game.
   * [Flexbox Zombies](https://mastery.games/flexboxzombies/) - Learn how to use CSS Flexbox and practice with this game. (sometimes it's free).
   * [Grid Critters](https://gridcritters.com/) - Learn how to use CSS Grid and practice with this game. (sometimes it's free).
   * [Grid Garden](https://cssgridgarden.com/#en) - Learn how to use CSS Grid and practice with this game.
+  * [Responsive Web Design @FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) -  A guide that teaches flexible design concepts. There are 5 sample projects at the end of the guide.
+  * [What The Flexbox?!](https://flexbox.io/) - Video series consisting of 20 videos explaining CSS Flexbox.
+* Tutorials <a name="html-css-tutorials"></a>
+  * [Dash Learn to Code](https://dash.generalassemb.ly/projects) -  A guide that teaches the concepts over 5 mini projects.
   * [Interneting Is Hard](https://www.internetingishard.com/html-and-css/) -  A guide that teaches key concepts like flexible design and typography. The diagrams inside are wonderful.
   * [Learn CSS Layout](https://learnlayout.com/) - A guide that teaches the CSS fundamentals that are used in any website's layout.
-  * [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) -  A guide that teaches flexible design concepts. There are 5 sample projects at the end of the guide.
   * [Shayhowe Learn to Code](https://learn.shayhowe.com) -  A guide that teaches basic and advanced HTML & CSS concepts with use cases. The "Conference Page" is cumulatively coded throughout the guide.
-  * [What The Flexbox?!](https://flexbox.io/) - Video series consisting of 20 videos explaining CSS Flexbox.
 * Code Examples <a name="html-css-examples"></a>
   * [CSS Layout](https://csslayout.io/) - Popular layouts and patterns made with CSS.
   * [HTML/CSS Project Ideas @Codementor](https://www.codementor.io/projects/html_css) - Projects for reinforcing theoretical knowledge with real-world projects.
-* Cheatsheets & Awesomes & References <a name="html-css-cheatsheets-awesomes-ref"></a>
+* Cheatsheets & Awesomes & References <a name="html-css-cheatsheets-awesomes-refs"></a>
   * [Grid by Example](https://gridbyexample.com/) - Everything you need to learn CSS Grid Layout.
   * [HTML Cheatsheet @Digital](https://digital.com/tools/html-cheatsheet/) - A full list of all HTML elements, including descriptions, code examples and live previews.
   * [htmlreference.io](https://htmlreference.io/) - A full list of elements, attributes and all information about them.
@@ -97,24 +102,24 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
   * [Full Stack Javascript Path @TheOdinProject](https://www.theodinproject.com/paths/full-stack-javascript) - A guide for teaching Javascript with as much HTML, CSS and NodeJS as we need. There are many examples of projects in it.
   * [How To Code in JavaScript @DigitalOcean](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript) - A JavaScript guide covering the basics.
   * [Javascript Tutorial](https://www.javascripttutorial.net/) - A series of guide to help you learn the JavaScript programming language from scratch quickly and effectively.
-  * [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - A guide for teaching topics such as Basics, ES6, Regex, Debugging, Object Oriented Programming and Functional Programming by coding.
+  * [JavaScript Algorithms and Data Structures @FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - A guide for teaching topics such as Basics, ES6, Regex, Debugging, Object Oriented Programming and Functional Programming by coding.
   * [The Modern JavaScript Tutorial](https://javascript.info/) - A guide from basics to advanced topics with simple but detailed explanations. Contains 2 parts which cover JavaScript as a programming language and working with a browser.
-* Topic Tutorials
+* Topic Tutorials <a name="js-topic-tutorials"></a>
   * [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop#readme) - A functional javascript workshop.
   * [Promise Cookbook](https://github.com/stevekane/promise-it-wont-hurt#readme) - a brief introduction to using Promises in JavaScript.
   * [Promises Workshop](https://github.com/stevekane/promise-it-wont-hurt#readme) - A workshopper module that teaches you to use promises in JavaScript.
 * Code Examples <a name="js-examples"></a>
   * [30 Day Vanilla JS Coding Challenge](https://javascript30.com/) - Build 30 things in 30 days with 30 tutorials.
   * [JavaScript Project Ideas @Codementor](https://www.codementor.io/projects/javascript) - Projects for reinforcing theoretical knowledge with real-world projects.
-  * [JavaScript Projects](https://www.vanillajavascriptprojects.com/) - Simple projects made with vanilla JavaScript.
+  * [Vanilla JavaScript Projects](https://www.vanillajavascriptprojects.com/) - Simple projects made with vanilla JavaScript.
 * Cheatsheets & Awesomes & References <a name="js-cheatsheets-awesomes-refs"></a>
   * [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts) - 33 JavaScript concepts every developer should know.
   * [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions#readme) - List of JavaScript interview questions.
   * [JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme) - A long list of advanced JavaScript questions and explanations.
   * [Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+  * [Simplified JS Jargon](http://jargon.js.org/) - A glossary that explains the many trendy words that make up the JavaScript ecosystem in a few simple words.
 * Tools <a name="js-tools"></a>
   * [JavaScript Visualizer 9000](https://www.jsv9000.app/) - A tool for interactively visualizing JavaScript's event loop.
-  * [Simplified JS Jargon](http://jargon.js.org/) - A glossary that explains the many trendy words that make up the JavaScript ecosystem in a few simple words.
 
 ## React <a name="react"></a>
 
@@ -128,20 +133,20 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
   * [How To Code in React.js @DigitalOcean](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-react-js) - A React guide covering the basics.
   * [Learn React @Scrimba](https://scrimba.com/learn/learnreact) - A course for React 101. You'll learn key React features while building two apps and practice what you learn through interactive coding challenges and exercises along the way.
   * [React Courses @FrontendMasters](https://frontendmasters.com/learn/react/) - The best courses on React.
-  * [React Fundamentals @Frontarm](https://frontarm.com/courses/react-fundamentals/) - A course for teaching the basics of React with live exercises. Get practice building a real-world app with form validation, asynchronous storage, and proper structure.
+  * [React Fundamentals @FrontArm](https://frontarm.com/courses/react-fundamentals/) - A course for teaching the basics of React with live exercises. Get practice building a real-world app with form validation, asynchronous storage, and proper structure.
   * [React Official Docs](https://tr.reactjs.org/) - An overview of the React user guide and related resources.
   * [React Tutorial](https://react-tutorial.app/) - Learn in an interactive environment. Understand how React works not just how to build with React.
-* Topic Tutorials
-  * [React Hooks](https://reactjs.org/docs/hooks-intro.html) - Official tutorial for React hooks.
+* Topic Tutorials <a name="react-topic-tutorials"></a>
+  * [React Hooks Official Docs](https://reactjs.org/docs/hooks-intro.html) - Official tutorial for React hooks.
   * [useEffect Course](https://maxrozen.com/courses) - Learn the basics of useEffect in 3 days.
-  * [useHooks(🐠)](https://usehooks.com/) - Easy to understand React Hook recipes.
+  * [useHooks](https://usehooks.com/) - Easy to understand React Hook recipes.
 * Code Examples <a name="react-examples"></a>
   * [React by Example](https://reactbyexample.github.io/) - Code-oriented React tutorial for programmers.
   * [React Project Ideas @Codementor](https://www.codementor.io/projects/reactjs) - Projects for reinforcing theoretical knowledge with real-world projects.
   * [React Projects](https://react-projects.netlify.app/) - Simple projects made with React.
 * Cheatsheets & Awesomes & References<a name="react-cheatsheets-awesomes-refs"></a>
   * [Awesome React Design Systems](https://github.com/jbranchaud/awesome-react-design-systems#readme) - A collection of awesome React-based design systems.
-  * [React Cheatsheet](https://devhints.io/react) - A wonderful cheatsheet for the React.
+  * [React Cheatsheet @Devhints](https://devhints.io/react) - A wonderful cheatsheet for the React.
   * [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions#readme) - List of React interview questions.
   * [React Patterns](https://reactpatterns.com/) - Some React patterns, tips and tricks.
 
