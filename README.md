@@ -58,6 +58,10 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
 * Cheatsheets & Awesomes & References <a name="general-cheatsheets-awesomes-refs"></a>
   * [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) - List of design systems, pattern libraries and everything inbetween.
 
+---
+<a href="#awesome-frontend-resources" style="display:block; text-align: center;">Back to top</a>
+---
+
 ## HTML & CSS <a name="html-css"></a>
 
 *Resources for HTML and CSS.*
@@ -88,6 +92,10 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
   * [0to255](https://www.0to255.com/) - A tool for finding light and dark tones of colors.
   * [Can I use](https://caniuse.com/) - Interactive browser support tables.
   * [CSS Layout Generator](https://layout.bradwoods.io/) - A tool for visually creating layouts.
+
+---
+<a href="#awesome-frontend-resources" style="display:block; text-align: center;">Back to top</a>
+---
 
 ## JavaScript <a name="js"></a>
 
@@ -121,6 +129,10 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
 * Tools <a name="js-tools"></a>
   * [JavaScript Visualizer 9000](https://www.jsv9000.app/) - A tool for interactively visualizing JavaScript's event loop.
 
+---
+<a href="#awesome-frontend-resources" style="display:block; text-align: center;">Back to top</a>
+---
+
 ## React <a name="react"></a>
 
 *Resources for React.*
@@ -149,6 +161,10 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
   * [React Cheatsheet @Devhints](https://devhints.io/react) - A wonderful cheatsheet for the React.
   * [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions#readme) - List of React interview questions.
   * [React Patterns](https://reactpatterns.com/) - Some React patterns, tips and tricks.
+
+---
+<a href="#awesome-frontend-resources" style="display:block; text-align: center;">Back to top</a>
+---
 
 # Contributing
 
