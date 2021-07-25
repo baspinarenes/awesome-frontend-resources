@@ -35,6 +35,9 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
     * Tools
 * [Contributing](#contributing)
 
+<br>
+<br>
+
 ## General <a name="general"></a>
 
 *Resources for general topics (roadmaps, Frontend blogs, tutorials covering many Frontend technologies, etc).*
@@ -58,9 +61,11 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
 * Cheatsheets & Awesomes & References <a name="general-cheatsheets-awesomes-refs"></a>
   * [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) - List of design systems, pattern libraries and everything inbetween.
 
----
-<a href="#awesome-frontend-resources" style="display:block; text-align: center;">Back to top</a>
----
+<br/>
+<div align="right">
+    <b><a href="#awesome-frontend-resources">▲ Back to top</a></b>
+</div>
+<br/>
 
 ## HTML & CSS <a name="html-css"></a>
 
@@ -93,9 +98,12 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
   * [Can I use](https://caniuse.com/) - Interactive browser support tables.
   * [CSS Layout Generator](https://layout.bradwoods.io/) - A tool for visually creating layouts.
 
----
-<a href="#awesome-frontend-resources" style="display:block; text-align: center;">Back to top</a>
----
+
+<br/>
+<div align="right">
+    <b><a href="#awesome-frontend-resources">▲ Back to top</a></b>
+</div>
+<br/>
 
 ## JavaScript <a name="js"></a>
 
@@ -129,9 +137,11 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
 * Tools <a name="js-tools"></a>
   * [JavaScript Visualizer 9000](https://www.jsv9000.app/) - A tool for interactively visualizing JavaScript's event loop.
 
----
-<a href="#awesome-frontend-resources" style="display:block; text-align: center;">Back to top</a>
----
+<br/>
+<div align="right">
+    <b><a href="#awesome-frontend-resources">▲ Back to top</a></b>
+</div>
+<br/>
 
 ## React <a name="react"></a>
 
@@ -162,12 +172,12 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
   * [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions#readme) - List of React interview questions.
   * [React Patterns](https://reactpatterns.com/) - Some React patterns, tips and tricks.
 
----
-<a href="#awesome-frontend-resources" style="display:block; text-align: center;">Back to top</a>
----
+<br/>
+<div align="right">
+    <b><a href="#awesome-frontend-resources">▲ Back to top</a></b>
+</div>
+<br/>
 
 # Contributing
 
-I'm listing good sources I've come across. But there may be unknown treasures. Please feel free to forward it to me. Please take a look at the [contribution guidelines](/CONTRIBUTING.md) first.
-
-I'll put it up to vote to decide if some resources are worth adding, you could [vote for them](https://github.com/baspinarenes/awesome-frontend-resources//pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **10**.
+I'm listing best sources I've come across. But there may be unknown treasures. Please feel free to forward it to me. Please take a look at the [contribution guidelines](/CONTRIBUTING.md) first.
