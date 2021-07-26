@@ -33,6 +33,13 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
     * [Code Examples](#react-examples)
     * [Cheatsheets & Awesomes & References](#react-cheatsheets-awesomes-refs)
     * Tools
+  * [Vue](#vue)
+    * Books
+    * Tutorials
+    * [Topic Tutorials
+    * Code Examples
+    * Cheatsheets & Awesomes & References
+    * Tools
 * [Contributing](#contributing)
 
 <br>
@@ -188,6 +195,16 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
   * [React Cheatsheet @Devhints](https://devhints.io/react) - A wonderful cheatsheet for the React.
   * [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions#readme) - List of React interview questions.
   * [React Patterns](https://reactpatterns.com/) - Some React patterns, tips and tricks.
+
+<br/>
+<div align="right">
+    <b><a href="#awesome-frontend-resources">▲ Back to top</a></b>
+</div>
+<br/>
+
+## Vue <a name="vue"></a>
+
+*Resources for Vue.*
 
 <br/>
 <div align="right">
