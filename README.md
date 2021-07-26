@@ -2,7 +2,7 @@
 
 A list of awesome Frontend resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
-# Table of Contents
+# Contents
 
 * [Awesome Frontend Resources](#awesome-frontend-resources)
   * [General](#general)
