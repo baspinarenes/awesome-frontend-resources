@@ -241,7 +241,7 @@ REACT SECTION
   * [React Projects](https://react-projects.netlify.app/) - Simple projects made with React.
 <!--- Code Examples | End -->
 <!--- Cheatsheets & Awesomes & References | Start -->
-* Cheatsheets & Awesomes & References<a name="react-cheatsheets-awesomes-refs"></a>
+* Cheatsheets & Awesomes & References <a name="react-cheatsheets-awesomes-refs"></a>
   * [Awesome React Design Systems](https://github.com/jbranchaud/awesome-react-design-systems#readme) - A collection of awesome React-based design systems.
   * [React Cheatsheet @Devhints](https://devhints.io/react) - A wonderful cheatsheet for the React.
   * [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions#readme) - List of React interview questions.
@@ -269,8 +269,17 @@ VUE SECTION
 <!--- Books | Start -->
 <!--- Books | End -->
 <!--- Tutorials | Start -->
+* Tutorials <a name="vue-tutorials"></a>
+  * [Vue.js Fundamentals @Vueschool](https://vueschool.io/courses/vuejs-fundamentals) - Learn the core concepts of Vue 2 by developing a project.
+  * [Vue.js 3 Fundamentals @Vueschool](https://vueschool.io/courses/vuejs-3-fundamentals) - Learn the core concepts of Vue 3 by developing a project.
 <!--- Tutorials | End -->
 <!--- Topic Tutorials | Start -->
+* Topic Tutorials <a name="vue-topic-tutorials"></a>
+  * [Vue.js Components Fundamentals @Vueschool](https://vueschool.io/courses/vuejs-components-fundamentals) - Learn Vue 2's Component concept by making two sample projects.
+  * [Vue.js 3 Components Fundamentals @Vueschool](https://vueschool.io/courses/vuejs-components-fundamentals) - Learn Vue 3's Component concept by making two sample projects.
+  * [Vue Router for Everyone @Vueschool](https://vueschool.io/courses/vue-router-for-everyone) - Learn how to build Single Page Applications in Vue 2 with the Vue Router.
+  * [Vue Router 4 for Everyone @Vueschool](https://vueschool.io/courses/vue-router-4-for-everyone) - Learn how to build Single Page Applications in Vue 3 with the Vue Router 4.
+  * [Vuex for Everyone @Vueschool](https://vueschool.io/courses?filter=free-courses) - Learn about the Vuex library that provides state management with a central store.
 <!--- Topic Tutorials | End -->
 <!--- Code Examples | Start -->
 <!--- Code Examples | End -->
