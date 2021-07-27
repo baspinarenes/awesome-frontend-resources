@@ -35,8 +35,8 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
     * Tools
   * [Vue](#vue)
     * Books
-    * Tutorials
-    * Topic Tutorials
+    * [Tutorials](#vue-tutorials)
+    * [Topic Tutorials](#vue-topic-tutorials)
     * Code Examples
     * Cheatsheets & Awesomes & References
     * Tools
@@ -270,6 +270,8 @@ VUE SECTION
 <!--- Books | End -->
 <!--- Tutorials | Start -->
 * Tutorials <a name="vue-tutorials"></a>
+  * [Intro to Vue 2 @VueMastery](https://www.vuemastery.com/courses/intro-to-vue-js) - Learn the fundamentals of Vue 2 in this course that starts with the very basics.
+  * [Intro to Vue 3 @VueMastery](https://www.vuemastery.com/courses/intro-to-vue-3) - Learn the fundamentals of Vue 3 in this course that starts with the very basics.
   * [Vue.js Fundamentals @Vueschool](https://vueschool.io/courses/vuejs-fundamentals) - Learn the core concepts of Vue 2 by developing a project.
   * [Vue.js 3 Fundamentals @Vueschool](https://vueschool.io/courses/vuejs-3-fundamentals) - Learn the core concepts of Vue 3 by developing a project.
 <!--- Tutorials | End -->
