@@ -38,7 +38,7 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
     * [Tutorials](#vue-tutorials)
     * [Topic Tutorials](#vue-topic-tutorials)
     * Code Examples
-    * Cheatsheets & Awesomes & References
+    * [Cheatsheets & Awesomes & References](#vue-cheatsheets-awesomes-refs)
     * Tools
 * [Contributing](#contributing)
 
@@ -286,6 +286,11 @@ VUE SECTION
 <!--- Code Examples | Start -->
 <!--- Code Examples | End -->
 <!--- Cheatsheets & Awesomes & References | Start -->
+* Cheatsheets & Awesomes & References <a name="vue-cheatsheets-awesomes-refs"></a>
+  * [Vue 2 Essentials Cheatsheet @VueMastery](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf) - Contains the explanation of the basic concepts of Vue 2.
+  * [Vue 2 Complete API Cheatsheet](https://marozed.com/vue-cheatsheet/) - Contains shortcut links to concepts from the Vue 2 document.
+  * [Vue 3 Cheatsheet for Developers](https://learnvue.co/wp-content/uploads/2021/01/A-VueJS-Cheatsheet-for-Developers-__-By-LearnVue.co_.pdf) - Contains the explanation of concepts of Vue 3.
+  * [Vue 3 Composition API Cheatsheet](https://www.vuemastery.com/pdf/Vue-3-Cheat-Sheet.pdf) - Contains the explanation of the Composition API features.
 <!--- Cheatsheets & Awesomes & References | End -->
 <!--- Tools | Start -->
 <!--- Tools | End -->
