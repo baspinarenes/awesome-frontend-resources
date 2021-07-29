@@ -285,6 +285,8 @@ VUE SECTION
 <!--- Topic Tutorials | End -->
 <!--- Code Examples | Start -->
 <!--- Code Examples | End -->
+* Code Examples <a name="vue-code-examples"></a>
+  * [Vue.js Workshops](https://public.vuejsworkshops.com/) - Build and deploy 3 Vue.js apps from your browser.
 <!--- Cheatsheets & Awesomes & References | Start -->
 * Cheatsheets & Awesomes & References <a name="vue-cheatsheets-awesomes-refs"></a>
   * [Vue 2 Essentials Cheatsheet @VueMastery](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf) - Contains the explanation of the basic concepts of Vue 2.
