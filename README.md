@@ -295,6 +295,7 @@ VUE SECTION
   * [Vue 2 Complete API Cheatsheet](https://marozed.com/vue-cheatsheet/) - Contains shortcut links to concepts from the Vue 2 document.
   * [Vue 3 Cheatsheet for Developers](https://learnvue.co/wp-content/uploads/2021/01/A-VueJS-Cheatsheet-for-Developers-__-By-LearnVue.co_.pdf) - Contains the explanation of concepts of Vue 3.
   * [Vue 3 Composition API Cheatsheet](https://www.vuemastery.com/pdf/Vue-3-Cheat-Sheet.pdf) - Contains the explanation of the Composition API features.
+  * [Vue Patterns](https://learn-vuejs.github.io/vue-patterns/) - Useful Vue patterns, techniques, tips and tricks and curated helpful links.
 <!--- Cheatsheets & Awesomes & References | End -->
 <!--- Tools | Start -->
 <!--- Tools | End -->
