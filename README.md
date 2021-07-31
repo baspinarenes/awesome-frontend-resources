@@ -177,6 +177,7 @@ JAVASCRIPT SECTION
   * [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop#readme) - A functional javascript workshop.
   * [Promise Cookbook](https://github.com/stevekane/promise-it-wont-hurt#readme) - a brief introduction to using Promises in JavaScript.
   * [Promises Workshop](https://github.com/stevekane/promise-it-wont-hurt#readme) - A workshopper module that teaches you to use promises in JavaScript.
+  * [JavaScript Design Patterns For Humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - An ultra-simplified explanation of design patterns implemented in JavaScript.
 <!--- Topic Tutorials | End -->
 <!--- Code Examples | Start -->
 * Code Examples <a name="js-examples"></a>
@@ -190,7 +191,7 @@ JAVASCRIPT SECTION
   * [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions#readme) - List of JavaScript interview questions.
   * [JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme) - A long list of advanced JavaScript questions and explanations.
   * [Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
-  * [Simplified JS Jargon](http://jargon.js.org/) - A glossary that explains the many trendy words that make up the JavaScript ecosystem in a few simple words.
+  * [Simplified JS Jargon](http://jargon.js.org/) - A glossary that explains the many trendy words that make up the JavaScript ecosystem in a few simple words. 
 <!--- Cheatsheets & Awesomes & References | End -->
 <!--- Tools | Start -->
 * Tools <a name="js-tools"></a>
