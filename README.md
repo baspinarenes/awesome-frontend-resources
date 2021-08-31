@@ -10,6 +10,7 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
     * [Books](#general-books)
     * [Blogs](#general-blogs)
     * [Tutorials](#general-tutorials)
+    * [Topic Tutorials](#general-topic-tutorials)
     * [Code Examples](#general-examples)
     * [Cheatsheets & Awesomes & References](#general-cheatsheets-awesomes-refs)
   * [HTML & CSS](#html-css)
@@ -228,8 +229,7 @@ REACT SECTION
 
 <!--- Roadmaps | Start -->
 * Roadmaps <a name="react-roadmaps"></a>
-  * [React Roadmap @Roadmap.sh ](https://roadmap.sh/react) - 
-Guide for giving you an idea of ​​the React ecosystem.
+  * [React Roadmap @Roadmap.sh ](https://roadmap.sh/react) - Guide for giving you an idea of the React ecosystem.
   * [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap) - Guide for React developers asking what to learn next.
 <!--- Roadmaps | End -->
 <!--- Books | Start -->
