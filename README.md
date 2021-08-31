@@ -77,6 +77,10 @@ GENERAL SECTION
 * Tutorials <a name="general-tutorials"></a>
   * [Frontend Development Libraries @FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/) - A course on some libraries used in Frontend. Content: Bootstrap, jQuery, SASS, React, Redux and 5 projects.
 <!--- Tutorials | End -->
+<!--- Topic Tutorials | Start -->
+* Topic Tutorials <a name="general-topic-tutorials"></a>
+  * [Webpack from Nothing](https://what-problem-does-it-solve.com/webpack/index.html) - A guide that explains how Webpack works by creating a project and configuring it manually.
+<!--- Topic Tutorials | End -->
 <!--- Code Examples | Start -->
 * Code Examples <a name="general-examples"></a>
   * [30 Seconds of Code](https://www.30secondsofcode.org/) - Useful ES6 snippets that you can understand in 30 seconds.
@@ -118,7 +122,7 @@ HTML & CSS SECTION
   * [Shayhowe Learn to Code](https://learn.shayhowe.com) -  A guide that teaches basic and advanced HTML & CSS concepts with use cases. The "Conference Page" is cumulatively coded throughout the guide.
 <!--- Tutorials | End -->
 <!--- Topic Tutorials | Start -->
-* Topic Tutorials
+* Topic Tutorials <a name="html-css-topic-tutorials"></a>
   * [CSS Grid](https://cssgrid.io/) - A video series consisting of 25 videos explaining CSS Grid.
   * [CSS Diner](https://flukeout.github.io/) - Learn how to use CSS selectors and practice with this game.
   * [Flexbox Defense](http://www.flexboxdefense.com/) - Learn how to use CSS Flexbox and practice with this game.
