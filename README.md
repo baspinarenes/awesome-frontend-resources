@@ -11,6 +11,8 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
     * [Blogs](#general-blogs)
     * [Tutorials](#general-tutorials)
     * [Topic Tutorials](#general-topic-tutorials)
+      * [Git](#general-topic-git)
+      * [Webpack](#general-topic-webpack)
     * [Code Examples](#general-examples)
     * [Cheatsheets & Awesomes & References](#general-cheatsheets-awesomes-refs)
   * [HTML & CSS](#html-css)
@@ -80,7 +82,10 @@ GENERAL SECTION
 <!--- Tutorials | End -->
 <!--- Topic Tutorials | Start -->
 * Topic Tutorials <a name="general-topic-tutorials"></a>
-  * [Webpack from Nothing](https://what-problem-does-it-solve.com/webpack/index.html) - A guide that explains how Webpack works by creating a project and configuring it manually.
+  * Git <a name="general-topic-git"></a>
+    * [Git Immersion](https://gitimmersion.com) - A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
+  * Webpack <a name="general-topic-webpack"></a>
+    * [Webpack from Nothing](https://what-problem-does-it-solve.com/webpack/index.html) - A guide that explains how Webpack works by creating a project and configuring it manually.
 <!--- Topic Tutorials | End -->
 <!--- Code Examples | Start -->
 * Code Examples <a name="general-examples"></a>
