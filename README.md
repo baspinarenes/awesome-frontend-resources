@@ -12,6 +12,7 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
     * [Tutorials](#general-tutorials)
     * [Topic Tutorials](#general-topic-tutorials)
       * [Git](#general-topic-git)
+      * [GraphQL](#general-topic-graphql)
       * [Webpack](#general-topic-webpack)
     * [Code Examples](#general-examples)
     * [Cheatsheets & Awesomes & References](#general-cheatsheets-awesomes-refs)
@@ -84,6 +85,8 @@ GENERAL SECTION
 * Topic Tutorials <a name="general-topic-tutorials"></a>
   * Git <a name="general-topic-git"></a>
     * [Git Immersion](https://gitimmersion.com) - A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
+  * GraphQL <a name="general-topic-graphql"></a>
+    * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com) - The free and open-source tutorial to learn all around GraphQL to go from zero to production.
   * Webpack <a name="general-topic-webpack"></a>
     * [Webpack from Nothing](https://what-problem-does-it-solve.com/webpack/index.html) - A guide that explains how Webpack works by creating a project and configuring it manually.
 <!--- Topic Tutorials | End -->
