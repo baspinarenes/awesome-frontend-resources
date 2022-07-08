@@ -85,6 +85,12 @@ GENERAL SECTION
 * Topic Tutorials <a name="general-topic-tutorials"></a>
   * Git <a name="general-topic-git"></a>
     * [Git Immersion](https://gitimmersion.com) - A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
+    * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) - A guide to using Git from Standford university.
+    * [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - Learn the basics of Git through this comprehensive Git training.
+    * [Learn Git Branching](https://learngitbranching.js.org/) - The most visual and interactive way to learn Git on the web; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way.
+    * [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - Help to advance your understanding of this powerful content tracking system, and reveal a bit of the simplicity underlying it — however dizzying its array of options may seem from the outside.
+    * [Oh Shit, Git!?!](https://ohshitgit.com/)
+    * [Think Like (a) Git](https://think-like-a-git.net/)
   * GraphQL <a name="general-topic-graphql"></a>
     * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com) - The free and open-source tutorial to learn all around GraphQL to go from zero to production.
   * Webpack <a name="general-topic-webpack"></a>
