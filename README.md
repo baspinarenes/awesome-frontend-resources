@@ -48,6 +48,8 @@ A list of awesome Frontend resources. Inspired by [awesome-python](https://githu
     * Code Examples
     * [Cheatsheets & Awesomes & References](#vue-cheatsheets-awesomes-refs)
     * Tools
+  * [FullStack](#fullstack)
+    * SQL (Structured Query Language)(#sql-tutorials)
 * [Contributing](#contributing)
 
 <br>
@@ -332,6 +334,25 @@ VUE SECTION
 <!--- Cheatsheets & Awesomes & References | End -->
 <!--- Tools | Start -->
 <!--- Tools | End -->
+
+<br/>
+<div align="right">
+    <b><a href="#awesome-frontend-resources">▲ Back to top</a></b>
+</div>
+<br/>
+
+<!---
+====================================
+FULLSTACK SECTION
+====================================
+-->
+
+## Fullstack <a name="fullstack"></a>
+
+*Resources for Fullstack.*
+
+* SQL Tutorials<a name="sql-tutorials"></a>
+  * [SQLBolt](https://sqlbolt.com/) - A series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
 
 <br/>
 <div align="right">
